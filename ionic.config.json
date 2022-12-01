@@ -1,0 +1,8 @@
+{
+  "name": "jOOLER",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c0de5981"
+}
